@@ -236,3 +236,6 @@ This repository serves as the official landing page for Driver XP. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Driver XP today!**
+
+---
+**Last updated:** 2026-09-07 16:52:51 UTC
